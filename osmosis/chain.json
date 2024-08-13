@@ -304,6 +304,10 @@
       {
         "address": "https://osmosis-rpc.noders.services",
         "provider": "[NODERS]TEAM"
+      },
+      {
+        "address": "https://osmosis-rpc.stakeandrelax.net",
+        "provider": "Stake&Relax 🦥"
       }
     ],
     "rest": [
@@ -406,6 +410,10 @@
       {
         "address": "https://osmosis-api.noders.services",
         "provider": "[NODERS]TEAM"
+      },
+      {
+        "address": "https://osmosis-api.stakeandrelax.net",
+        "provider": "Stake&Relax 🦥"
       }
     ],
     "grpc": [
@@ -476,6 +484,10 @@
       {
         "address": "osmosis-grpc.noders.services:10090",
         "provider": "[NODERS]TEAM"
+      },
+      {
+        "address": "http://osmosis-grpc.stakeandrelax.net:12590",
+        "provider": "Stake&Relax 🦥"
       }
     ]
   },
